@@ -1,0 +1,8 @@
+wp-config.php
+wp-content/cache/*
+wp-content/uploads/*
+wp-content/themes/emler-swim-school-theme/assets/css/main.css
+wp-content/mysql.sql
+wp-content/plugins/*
+!wp-content/plugins/store-location-distance/
+node_modules
